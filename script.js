@@ -1,4 +1,4 @@
 // JavaScript for script.js
 
-// Add any JavaScript functionality here, such as animations or interactivity
-console.log("Portfolio loaded successfully.");
+// Add any interactivity here if needed
+console.log("Linktree profile loaded successfully.");
